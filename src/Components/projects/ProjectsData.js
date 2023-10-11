@@ -67,4 +67,40 @@ export const projectsData = [
     link: "#",
     github: "https://github.com/abhijasud/fashon-website",
   },
+  {
+    project_img: "https://raw.githubusercontent.com/abhijasud/imagesss/main/honeybeewebsite.png",
+    project_img_dark: "https://raw.githubusercontent.com/abhijasud/imagesss/main/honeybeewebsite.png",
+
+    title: "Glossier",
+    description:
+      "let_it_bee.co is ecommerce website which sell honey. User can use this app to buy Honey from the company.",
+    tech_stack: [
+      {
+        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+        name: "react",
+      },
+      {
+        url: "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+        name: "html",
+      },
+      {
+        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png",
+        name: "css",
+      },
+      {
+        url: "https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg",
+        name: "js",
+      },
+      {
+        url: "https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png",
+        name: "chakra",
+      },
+      {
+        url: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        name: "github",
+      },
+    ],
+    link: "https://let-it-bee.vercel.app/",
+    github: "https://github.com/abhijasud/honey_bee",
+  },
 ];
