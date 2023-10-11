@@ -71,7 +71,7 @@ export const projectsData = [
     project_img: "https://raw.githubusercontent.com/abhijasud/imagesss/main/honeybeewebsite.png",
     project_img_dark: "https://raw.githubusercontent.com/abhijasud/imagesss/main/honeybeewebsite.png",
 
-    title: "Glossier",
+    title: "LETITBE.CO",
     description:
       "let_it_bee.co is ecommerce website which sell honey. User can use this app to buy Honey from the company.",
     tech_stack: [
