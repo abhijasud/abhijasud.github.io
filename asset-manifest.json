@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a19e6c29.css",
-    "main.js": "/static/js/main.644b97d7.js",
+    "main.js": "/static/js/main.ce6ac81d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Abhishek-jasud-Resume.pdf": "/static/media/Abhishek-jasud-Resume.06491ab9c8e9e5ec6f3e.pdf",
     "index.html": "/index.html",
     "main.a19e6c29.css.map": "/static/css/main.a19e6c29.css.map",
-    "main.644b97d7.js.map": "/static/js/main.644b97d7.js.map",
+    "main.ce6ac81d.js.map": "/static/js/main.ce6ac81d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a19e6c29.css",
-    "static/js/main.644b97d7.js"
+    "static/js/main.ce6ac81d.js"
   ]
 }
