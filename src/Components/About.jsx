@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import Resume from "../resume/AbhijasudResume.pdf";
+import Resume from "../resume/Abhishek-jasud-Resume.pdf";
 import { Text } from "@chakra-ui/react";
 export default function About() {
   React.useEffect(() => {
@@ -18,7 +18,7 @@ export default function About() {
         <div className={style.image}>
           {/* <BookType /> */}
           <img
-            src="https://raw.githubusercontent.com/abhijasud/imagesss/main/programmer.png"
+            src="https://avatars.githubusercontent.com/u/51919527?s=400&u=f05562aecaee5daf3025ad826afebb4237a819f3&v=4"
             alt="profile_img"
             className="home-img"
           />

@@ -27,7 +27,7 @@ import { Link } from "react-scroll";
 import { HamburgerIcon } from "@chakra-ui/icons";
 
 import Typewriter from "typewriter-effect";
-import Resume from "../../resume/AbhijasudResume.pdf";
+import Resume from "../../resume/Abhishek-jasud-Resume.pdf";
 
 // const Links = ["About", "Skills", "Projects", "Contact", "Resume"];
 

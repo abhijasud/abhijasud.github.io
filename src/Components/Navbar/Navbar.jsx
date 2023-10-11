@@ -10,7 +10,7 @@ import {
 import { Link } from "react-scroll";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons";
 import SideDrawerNavbar from "./SideDrawerNavbar";
-import Resume from "../../resume/AbhijasudResume.pdf";
+import Resume from "../../resume/Abhishek-jasud-Resume.pdf";
 
 // const Links = ["Home","About", "Skills", "Projects", "Contact", "Resume",];
 
