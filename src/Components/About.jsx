@@ -57,7 +57,7 @@ export default function About() {
               }}
               id="resume-button-2"
               href={Resume}
-              download="Abhi-Jasud-Resume"
+              download="Abhishek-Jasud-Resume"
               className={style.ResumeBtn}
               >
             <span></span>
