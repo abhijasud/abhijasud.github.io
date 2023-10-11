@@ -191,7 +191,7 @@ export default function Navbar() {
                   className="nav-link resume"
                   id="resume-button-1"
                   href={Resume}
-                  download="AbhijasudResume"
+                  download="Abhishek-Jasud-Resume"
                   px={2}
                   py={1}
                   rounded={"md"}
