@@ -85,7 +85,7 @@ function SideDrawerNavbar() {
                       <a 
                       onClick={() => {
                         window.open(
-                          "https://drive.google.com/file/d/1lDFE4mECjlhTW-4WigvhRAsfzHtKimz4/view?usp=sharing",
+                          "https://drive.google.com/file/d/1dCZqBa5QcilG0Pp6OWnLNAg2oNvXcoJj/view?usp=sharing",
                           "blank"
                         );
                       }}
