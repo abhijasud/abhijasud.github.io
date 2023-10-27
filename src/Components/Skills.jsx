@@ -34,7 +34,6 @@ export default function Skills() {
                 textAlign: "center",
                 marginTop: "20%",
               }}>
-              My favorite languages for software engineering
             </p>
           </div>
 
@@ -66,8 +65,7 @@ export default function Skills() {
                 textAlign: "center",
                 marginTop: "20%",
               }}>
-              My preferred technologies for front-end web development and
-              component design.
+              
             </p>
           </div>
 
@@ -90,8 +88,7 @@ export default function Skills() {
                 textAlign: "center",
                 marginTop: "20%",
               }}>
-              My preferred technologies for back-end web programming and
-              database architecture.
+              
             </p>
           </div>
 
@@ -114,8 +111,6 @@ export default function Skills() {
                 textAlign: "center",
                 marginTop: "20%",
               }}>
-              My favorite tools for version control, code editing, and container
-              orchestration.
             </p>
           </div>
         </div>
