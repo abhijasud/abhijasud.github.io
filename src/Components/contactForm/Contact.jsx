@@ -53,7 +53,7 @@ const Contact = () => {
                   </div>
                   <div className="contact-widget-item">
                     <div className="icon" style={{backgroundColor:"#5084e4"}}>
-                      <i className="fa-brands fa-github"></i>
+                      <Link to={"https://github.com/abhijasud"} target="blank"><i className="fa-brands fa-github"></i></Link>     
                     </div>
                     <div className="text" id="contact-github">
                       <h5 style={colorMode==='dark'?{color:'white'}:{color:'black'}}>Github</h5>
@@ -62,7 +62,8 @@ const Contact = () => {
                   </div>
                   <div className="contact-widget-item">
                     <div className="icon" style={{backgroundColor:"#5084e4"}}>
-                      <i className="fa-brands fa-linkedin"></i>
+                    <Link to={"https://www.linkedin.com/in/indabhii/"} target="blank"><i className="fa-brands fa-linkedin"></i></Link>
+                      
                     </div>
                     <div className="text" id="contact-linkedin">
                       <h5 style={colorMode==='dark'?{color:'white'}:{color:'black'}}>Linkedin</h5>
