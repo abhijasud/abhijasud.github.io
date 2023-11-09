@@ -44,7 +44,8 @@ const Contact = () => {
 
                   <div className="contact-widget-item">
                     <div className="icon" style={{backgroundColor:"#5084e4"}}>
-                      <i className="fa-regular fa-envelope"></i>
+                      <Link to={"mailto:abhijasud9@gmail.com"} style={colorMode==='dark'?{color:'white'}:{color:'black'}} target="blank"><i className="fa-regular fa-envelope"></i></Link>
+                      
                     </div>
                     <div className="text" id="contact-email">
                       <h5 style={colorMode==='dark'?{color:'white'}:{color:'black'}}>Email</h5>
