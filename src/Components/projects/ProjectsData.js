@@ -29,7 +29,7 @@ export const projectsData = [
       },
     ],
     link: "#",
-    github: "https://github.com/karnking/SkinStore",
+    github: "https://github.com/abhijasud/SkinStore",
   },
   {
     project_img: "https://raw.githubusercontent.com/abhijasud/imagesss/main/cloneeeeeeeeeeeeeeee.png",
